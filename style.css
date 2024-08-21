@@ -16,7 +16,6 @@ nav {
   display: flex;
   z-index: 100;
   align-items: center;
-  background-color: black;
 }
 .logo {
   margin-left: 20px;
